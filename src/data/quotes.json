@@ -1,0 +1,5 @@
+[
+  { "id": "q1", "text": "Simplicity is the ultimate sophistication.", "author": "Leonardo da Vinci", "isReal": true },
+  { "id": "q2", "text": "Innovation is mostly about patience.", "author": "Unknown", "isReal": false },
+  { "id": "q3", "text": "What gets measured gets managed.", "author": "Peter Drucker", "isReal": true }
+]
